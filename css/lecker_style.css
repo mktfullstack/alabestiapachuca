@@ -6842,7 +6842,7 @@ header nav.active .lec_logo {
 		top: 17px;
 	}
 	.lec_slider img {
-		max-height: 100px;
+		max-height: 400px;
 	}
 	.lec_slider p, 
 	.lec_slider .lec_gold {
